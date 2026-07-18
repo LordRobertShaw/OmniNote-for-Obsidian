@@ -1,0 +1,6 @@
+{
+  "name": "OmniNote for Obsidian",
+  "description": "Seamlessly extract, format, and structure Google Keep and Samsung Notes for direct import into your Obsidian Vault with AI-powered tagging, folders, auto-linking, and offline-persistent session recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
